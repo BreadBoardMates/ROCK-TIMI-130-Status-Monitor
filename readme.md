@@ -1,4 +1,4 @@
-# Rock Pi TIMI-130 Status Monitor
+# ROCK SBC TIMI-130 Status Monitor
 
 Adding a status monitor to any Rock SBC project can be very useful to give at a glance real-time status of how the CPU is performing in terms of usage, temperature, and RAM use as well as vital connectivity information. If overclocking is your thing, then this can prove extremely valuable to see what impact your settings have on the Rock SBC and adjust accordingly.
 
